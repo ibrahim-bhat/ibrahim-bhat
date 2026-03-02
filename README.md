@@ -89,9 +89,4 @@ Phone: **+91 7889651313**
 
 ---
 
-## ⚡ GitHub Stats
-*(GitHub will automatically show stats here if you use plugins later)*
-
----
-
 ⭐ Always open to collaboration, freelance work, and full-time opportunities.
