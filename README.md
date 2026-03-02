@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Ibrahim 👋
 
 💻 Full Stack Developer | B.Tech CSE Student  
